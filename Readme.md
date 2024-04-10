@@ -1,5 +1,5 @@
 
-## hi this is ali ali i,present some examples about those concepts :
+## hi, i present some examples about those concepts In OOP :
 ### define class
 ### this 
 ### constructor
