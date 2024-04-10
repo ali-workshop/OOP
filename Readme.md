@@ -1,5 +1,5 @@
 
-##hi this is ali ali i,present some examples about this concepts :
+##hi this is ali ali i,present some examples about those concepts :
 1-define class
 2-this 
 3-constructor
